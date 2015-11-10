@@ -1,0 +1,23 @@
+name: Justin Kantor
+favicon: null
+layout_spectrum: 0.5446654532570392
+typography_spectrum: 0.6777656855992973
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9617975640576333
+  lightness: 0.19435805431567132
+  saturation: 0.15969382412731647
+  rhythmicContrast: 0.10935473046265543
+purpose: []
